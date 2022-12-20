@@ -8,7 +8,6 @@
 
 * Я прекрасная мама, и не теряю надежды в скором будущем стать не менее прекрасной бабушкой
 
-![Это я](https://github.com/R-Lana/My/blob/main/%D0%AF1.png)
 
 ![Это я](https://github.com/R-Lana/My/blob/main/My%20foto.png)
 
